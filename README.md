@@ -23,11 +23,12 @@
  </div>
  
  ### Main skills:
-[![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL-Server](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL-SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![EXCEL](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![[.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
 ### Studying in this moment:
