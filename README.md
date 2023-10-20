@@ -29,7 +29,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![[.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
+![PowerBI](https://img.shields.io/badge/-FLUTTER-02569B?logo=powerbi&logoColor=white&logoColor=white)&nbsp;
 
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
