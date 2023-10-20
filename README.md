@@ -24,17 +24,18 @@
  
  ### Main skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C #](https://img.shields.io/badge/C_SHARP-512BD4?style=for-the-badge&logo=sharp&logoColor=white)
 ![SQL-SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![[.NET](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-FLUTTER-02569B?logo=powerbi&logoColor=white&logoColor=white)&nbsp;
+![PowerBI](https://img.shields.io/badge/-powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![databricks](https://img.shields.io/badge/-Databricks-0D1117?style=for-the-badge&logo=databricks&labelColor=0D1117)&nbsp;
+![SPARK](https://img.shields.io/badge/-Spark-0D1117?style=for-the-badge&logo=apachespark&labelColor=0D1117)&nbsp;
+![Hadoop](https://img.shields.io/badge/-Hadoop-0D1117?style=for-the-badge&logo=apachehadoop&labelColor=0D1117)&nbsp;
 
 
 
