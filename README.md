@@ -15,9 +15,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Evandrosales&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center"> 
-<a href="https://instagram.com/vandro_sales" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.kaggle.com/evandro0001" target="_blank"><img src="https://img.shields.io/badge/Kaggle-FF0000?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank"></a>
+<div align="center">
 <a href = "mailto:cmp.1a.ev.santossales@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/evandro-sales/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
@@ -35,8 +33,8 @@
 ### Studying in this moment:
 ![databricks](https://img.shields.io/badge/-Databricks-0D1117?style=for-the-badge&logo=databricks&labelColor=0D1117)&nbsp;
 ![SPARK](https://img.shields.io/badge/-Spark-0D1117?style=for-the-badge&logo=apachespark&labelColor=0D1117)&nbsp;
-![Hadoop](https://img.shields.io/badge/-Hadoop-0D1117?style=for-the-badge&logo=apachehadoop&labelColor=0D1117)&nbsp;
-
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117)&nbsp;
 
 
 
