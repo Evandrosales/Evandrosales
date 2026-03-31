@@ -1,41 +1,87 @@
+# 👋 Hello, I'm Evandro Sales
 
+💡 Data Engineer focused on building scalable data platforms and evolving into AI & MLOps solutions in cloud environments.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=120&section=header"/>
+I specialize in designing and optimizing data pipelines, enabling reliable data foundations for analytics, machine learning, and data-driven decision making.
 
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4c9e9d&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+Is+Evandro+Sales;I'm+from+Brazil;I'm+Data+Engineer;I'm+Data+Analyst;Be+Welcome!)](https://git.io/typing-svg)
+## 🚀 What I Do
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Evandrosales&show_icons=true&count_private=true&hide_border=true&title_color=4c9e9d&icon_color=4c9e9d&text_color=FFFFFF&bg_color=0d1117" alt="Evandro Sales github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evandrosales&layout=compact&hide_border=true&title_color=4c9e9d&text_color=FFFFFF&bg_color=0d1117" />
-</div>
+- Build and optimize scalable data pipelines (ETL/ELT)
+- Design data models for analytics and machine learning
+- Work with cloud platforms (Azure & AWS)
+- Enable data-driven and AI-driven solutions
+- Improve data quality, reliability, and performance
 
+---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Evandrosales&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+## 🧠 Tech Stack
 
-<div align="center">
-<a href = "mailto:cmp.1a.ev.santossales@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/evandro-sales/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
- ### Main skills:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C #](https://img.shields.io/badge/C_SHARP-512BD4?style=for-the-badge&logo=sharp&logoColor=white)
-![SQL-SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-powerbi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+### Data Engineering
+- Python | SQL | Data Modeling
+- ETL / ELT Pipelines
+- Apache Spark (learning)
 
-### Studying in this moment:
-![databricks](https://img.shields.io/badge/-Databricks-0D1117?style=for-the-badge&logo=databricks&labelColor=0D1117)&nbsp;
-![SPARK](https://img.shields.io/badge/-Spark-0D1117?style=for-the-badge&logo=apachespark&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&labelColor=0D1117)&nbsp;
+### Cloud Platforms
+- Microsoft Azure (Data Factory, Data Lake, Databricks)
+- AWS (S3, Glue, Athena)
 
+### AI & MLOps (Learning & Applying)
+- Machine Learning fundamentals
+- Model lifecycle (training, deployment, monitoring)
+- MLOps concepts and practices
+- Experiment tracking & versioning (future focus)
 
+### Data & Databases
+- SQL Server | PostgreSQL | MySQL | MongoDB
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=CCCCFF&height=120&section=footer"/>
+### Tools & Ecosystem
+- Power BI
+- Docker (learning)
+- Kubernetes (learning)
+
+---
+
+## 📂 Featured Projects
+
+🔹 **End-to-End Data Pipeline (Azure)**
+- Built a scalable pipeline using Azure Data Factory and Databricks  
+- Data ingestion, transformation, and storage in Data Lake  
+- Designed to support analytics and machine learning workloads  
+
+🔹 **Cloud Data Pipeline (AWS)**
+- Data ingestion using S3 and processing with AWS Glue  
+- Querying with Athena  
+- Focus on scalability and cost-efficiency  
+
+🔹 **ML Pipeline (MLOps - In Progress)**
+- Data preparation and feature engineering  
+- Model training and evaluation  
+- Future deployment and monitoring pipeline  
+
+👉 More projects: https://github.com/Evandrosales
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Data Engineering concepts  
+- Cloud Architecture (Azure & AWS)  
+- Machine Learning & MLOps  
+- FinOps and cost optimization  
+
+---
+
+## 🎯 Career Goals
+
+- Evolve into AI & Data Platform Engineer  
+- Build scalable data and ML platforms  
+- Move towards technical leadership  
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/evandro-sales/
+- Email: ev.santossales@gmail.com
