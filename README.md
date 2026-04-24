@@ -38,7 +38,7 @@ I specialize in designing and optimizing data pipelines, enabling reliable data 
 
 ### Tools & Ecosystem
 - Power BI
-- Docker (learning)
+- Docker
 - Kubernetes (learning)
 
 ---
