@@ -21,13 +21,13 @@ I specialize in designing and optimizing data pipelines, enabling reliable data 
 ### Data Engineering
 - Python | SQL | Data Modeling
 - ETL / ELT Pipelines
-- Apache Spark (learning)
+- Apache Spark
 
 ### Cloud Platforms
 - Microsoft Azure (Data Factory, Data Lake, Databricks)
 - AWS (S3, Glue, Athena)
 
-### AI & MLOps (Learning & Applying)
+### AI & MLOps
 - Machine Learning fundamentals
 - Model lifecycle (training, deployment, monitoring)
 - MLOps concepts and practices
@@ -39,45 +39,7 @@ I specialize in designing and optimizing data pipelines, enabling reliable data 
 ### Tools & Ecosystem
 - Power BI
 - Docker
-- Kubernetes (learning)
-
----
-
-## 📂 Featured Projects
-
-🔹 **End-to-End Data Pipeline (Azure)**
-- Built a scalable pipeline using Azure Data Factory and Databricks  
-- Data ingestion, transformation, and storage in Data Lake  
-- Designed to support analytics and machine learning workloads  
-
-🔹 **Cloud Data Pipeline (AWS)**
-- Data ingestion using S3 and processing with AWS Glue  
-- Querying with Athena  
-- Focus on scalability and cost-efficiency  
-
-🔹 **ML Pipeline (MLOps - In Progress)**
-- Data preparation and feature engineering  
-- Model training and evaluation  
-- Future deployment and monitoring pipeline  
-
-👉 More projects: https://github.com/Evandrosales
-
----
-
-## 📈 Currently Learning
-
-- Advanced Data Engineering concepts  
-- Cloud Architecture (Azure & AWS)  
-- Machine Learning & MLOps  
-- FinOps and cost optimization  
-
----
-
-## 🎯 Career Goals
-
-- Evolve into AI & Data Platform Engineer  
-- Build scalable data and ML platforms  
-- Move towards technical leadership  
+- Kubernetes
 
 ---
 
